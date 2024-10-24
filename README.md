@@ -1,2 +1,2 @@
 # NaijaMed_Q-A_Dataset
-This dataset contains questions posed by Nigerians on a dedicated healthcare forum, along with responses provided exclusively by licensed and trained healthcare professionals.
+This dataset contains questions posed by Nigerians on a dedicated healthcare forum and responses provided exclusively by licensed and trained healthcare professionals. The dataset reflects health concerns within the Nigerian context, including the use of English and local colloquialisms. All answers are reliable, as the platform restricted responses to verified healthcare professionals, ensuring the quality and credibility of the information.
